@@ -9,9 +9,9 @@ install
 url --url http://us.archive.ubuntu.com/ubuntu/
 
 # Language and keyboard setup
-lang en_US
-langsupport en_US
-keyboard us
+lang en_UK
+langsupport en_UK
+keyboard uk
 
 # Configure networking without IPv6, firewall off
 
